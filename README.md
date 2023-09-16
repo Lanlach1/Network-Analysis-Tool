@@ -28,7 +28,7 @@ If you do not wish to use a backround image for your network, you can leave the 
 image_bounds:
 This variable sets the x-y bounds of the image backround (should you choose to use one) relative to the x-y positions of the network nodes.
 For the bounds of your image, this variabnle is of the form [Min x, Max x, Min y, Max y].
-If using the S2 Cell or Neuromuscular junction data sets in the "Example Networks" folder. Please use the bounds defined in the README for each network.
+If using the S2 Cell or Neuromuscular junction data sets in the "Example Networks" folder, please use the bounds [0.5, 504.5, 0.5, 504.5] for the S2 data and [0, 188, 0, 188] for th NMJ data.
 
 name:
 just the name of the network you are using, when you save the analysis figure that is generated, it will use that as a name for the file.
