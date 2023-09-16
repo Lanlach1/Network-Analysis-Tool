@@ -53,7 +53,7 @@ This variable will set the dpi of your figure. Totally unintuituve...
 
 
 USING THE NODE ANALYSIS TOOL:
-The only code you need to edit when using this tool is from line 16 to line 26. There variables are almost indentical to the variables used for the edge analysis tool, with some SLIGHT changes. If the variable in question is not defined below, then you can use the definition from the Edge Analysis tool section of this README :D
+The only code you need to edit when using this tool is from line 16 to line 26. There variables are almost identical to the variables used for the edge analysis tool, with some SLIGHT changes. If the variable in question is not defined below, then you can use the definition from the Edge Analysis tool section of this README :D
 
 line_color:
 Sets the color of the lines used to connect the network in the figure. This ties to the "plot" function of matplotlib so only use key works that would work for that.
